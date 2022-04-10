@@ -1,0 +1,13 @@
+.頭 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-e2cD7ksJBJrewJ5gVJ4k9nlDOFAHVeyxg&usqp=CAU");
+    background-size: cover;
+    height: 1000px;
+}
+
+.head {
+    font-size: 100px;
+    color: red;
+}
+.頭 p {
+    font-size: 50px;
+}
